@@ -1,0 +1,29 @@
+<html>
+    <head>
+       <title>webView与H5交互方法</title>
+        <meta http-equiv="Content-Type"content="text/html; charset=UTF-8">
+       <script>
+           function alertTest()
+            {
+                alert("网页提示框！");
+               
+            }
+
+           function postString(){
+                 return document.getElementById("text1").value;
+                 
+            }
+        </script>
+    <body>
+        
+       <br/>
+       <br/>
+       <br/>
+        <a href='ios://openMyAlbum'>打开相册</a><br><br/>
+            
+        <a href = 'ios://openMyCamera'>打开相机</a>
+         <p><input type="text" id="text1" value="返回值"/></p>
+      <p><input type="button" id="btn" value="提交" onclick="postString()"/></p>
+    </body>
+    
+</html>
