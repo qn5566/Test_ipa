@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.bobocoins.bpay</string>
 				<key>bundle-version</key>
-				<string>1.2.0</string>
+				<string>1.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>I-Me</string>
+				<string>BPay</string>
 			</dict>
 		</dict>
 	</array>
