@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.cordova.myappf1bb8f</string>
+				<string>io.cordova.myapp01</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Ebisu Games</string>
+				<string>Tay</string>
 			</dict>
 		</dict>
 	</array>
